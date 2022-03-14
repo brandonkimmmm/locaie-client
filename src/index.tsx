@@ -15,6 +15,8 @@ import '@fontsource/roboto/500.css';
 import '@fontsource/roboto/700.css';
 import theme from './config/theme';
 
+import 'mapbox-gl/dist/mapbox-gl.css';
+
 ReactDOM.render(
 	<React.StrictMode>
 		<BrowserRouter>
