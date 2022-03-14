@@ -28,6 +28,7 @@
 		"prettier/prettier": "error",
 		"react/require-default-props": "off",
 		"no-param-reassign": "off",
-		"react/jsx-props-no-spreading": "off"
+		"react/jsx-props-no-spreading": "off",
+		"consistent-return": "off"
 	}
 }
